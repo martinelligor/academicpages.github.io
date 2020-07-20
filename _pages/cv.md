@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -10,52 +10,58 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
-* B.S. in Computer Science, University of Sao Paulo, February 2015 - July 2019
-* Emphasis in Data Science, University of Sao Paulo, February 2018 – July 2019
+=========
+_________
+## University of Sao Paulo, São Carlos-SP, Brazil | February 2015 - July 2019
+Undergraduate in Computer Science (Emphasis on Data Science)
 
-Work experience
-======
-* April 2016 – June 2016: Teaching Assistant in Introduction to Computer Science at University of Sao Paulo
-  * Held weekly sessions with students, highlighting and presenting important topics and addressing questions.
-  * Provided individual assistance with class projects during office hours and graded homework, programming projects and tests.
-  * Created compilations of exercises with solutions emphasising key concepts that lay the foundations of programming skills.
+Experience
+==========
+__________
+## University of Sao Paulo, São Carlos-SP, Brazil
+**Teaching Assistant, Introduction to Computer Science | April 2016 - June 2016**
+* Held weekly sessions with students, highlighting and presenting important topics and addressing questions.
+* Provided individual assistance with class projects during office hours and graded homework, programming projects and tests.
+* Created compilations of exercises with solutions emphasizing key concepts to reinforce the foundations of programming skills.
 
-* August 2018 - July 2019: Data Scientist Intern at Big Data
-  * Built and Maintenance crawlers.
-  * Maintenance and operations improvement of the database.
-  *  Built Dashboards to summarize and presentate analyzed data.
-  * Exploratory data analysis of the customers to build insights and extract information.
-  * A model was constructed to analyze customer buying patterns using clustering techniques and association rules.
+**Research Project:** "Variations of Deep Learning for Analysis of Gene Expression Data" | August 2017 - July 2018
+* The research explored different Machine Learning techniques, like K-NN, Decision Tree and MLP’s, focusing on Deep
+Learning architectures to classify public domain gene expression data.
+* An automated pipeline was built in Python using Keras to run multiple Deep Learning experiments consisting of three phases:
+data balancing, dimensionality reduction and classification. The pipeline was responsible for running experiments with different
+ models and configuration.
+* Results and models were later used for cancer classification problems.
 
-* August 2019 - Present: Data Scientist at Big Data
-  * Acted in a CRM project and helped on the construction of a model.
-  * Analyze and extract insights of the customers to improve models.
-  * Built Dashboard using Dash Python framework
-  * Built strategies to make best divisions of control group and experimental group on a project.
-  
-Courses
-======
-* Applied Data Science with Python - University of Michigan MOOC
-  * Introduction to Data Science in Python
-  * Applied Plotting, Charting & Data Representation in Python
-  * Applied Machine Learning in Python
+## Big Data, São Carlos-SP, Brazil
+**Data Scientist Intern | August 2018 - July 2019**
+* Crawlers building and maintenance.
+* Database maintenance and operations improvement.
+* Dashboards development for KPIs visualization using Tableau.
+* Retail customer data exploratory analysis for insight generation and pattern recognition.
+* Customer behavior descriptive modelling using clustering and association rules techniques.
+
+**Data Scientist | August 2019 - Present**
+* CRM modelling for a large Brazilian retailer.
+* Customer data analysis and insight driven methods for modelling improvement.
+* Dashboards development for KPIs visualization using Python/Dash and PowerBI.
+* SKU assortment optimization for major beer company, which caused 4% same store sales uplift during COVID pandemic.
+* Built analytics-based approaches to make smart divisions of control and experimental group for AI and retail related projects.
+
+Online Courses
+==============
+______________
+* University of Michigan MOOC - Applied Data Science with Python
+* Datacamp – Big Data with PySpark Track
+* Datacamp – Time Series with Python Track
 
 Skills
 ======
-* Machine Learning
-* Data Science
-  * Data handling
-  * Data analysis
-* Web Scrapping
-* Databases
-* Python, R, C, SQL, C, C++, Java, HTML, CSS
-* Tableau, PowerBI, Plotly, Dash (Plotly Framework)
+______
+**Knowledge areas:** Machine Learning, Database, Data Analysis, Algorithms and Data Structures, Web Scraping.  
+**Programming:** Python, R, C, Java, SQL, C++, HTML, CSS, Spark.  
+**Software's:** Tableau, PowerBI.  
+**Languages:** Native Portuguese, Advanced English.  
 
-Languages
-======
-* Native Portuguese
-* Intermediary English
 
 <!--
 Publications
