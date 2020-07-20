@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Cientista de dados formado em Ciência da Computação, com ênfase em Ciência de Dados, pelo ICMC/USP.
+Passionate and enthusiast about Data Science, I love coding and analyzing data. Currently, I'm a Data Scientist at Big Data and a master candidate in data science at USP. Had previous experience in pricing, CRM and sku assortment for major Brazilian retailers. 
