@@ -12,8 +12,8 @@ redirect_from:
 Education
 =========
 _________
-## University of Sao Paulo, São Carlos-SP, Brazil | February 2015 - July 2019
-Undergraduate in Computer Science (Emphasis on Data Science)
+## University of Sao Paulo, São Carlos-SP, Brazil
+**Undergraduate in Computer Science (Emphasis on Data Science) | February 2015 - July 2019**
 
 Experience
 ==========
