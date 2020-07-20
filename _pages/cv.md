@@ -12,8 +12,8 @@ redirect_from:
 Education
 =========
 _________
-## University of Sao Paulo, São Carlos-SP, Brazil | February 2015 - July 2019
-Undergraduate in Computer Science (Emphasis on Data Science)
+## University of Sao Paulo, São Carlos-SP, Brazil
+**Undergraduate in Computer Science (Emphasis on Data Science) | February 2015 - July 2019**
 
 Experience
 ==========
@@ -24,7 +24,7 @@ __________
 * Provided individual assistance with class projects during office hours and graded homework, programming projects and tests.
 * Created compilations of exercises with solutions emphasizing key concepts to reinforce the foundations of programming skills.
 
-**Research Project:** "Variations of Deep Learning for Analysis of Gene Expression Data" | August 2017 - July 2018
+**Research Project: "Variations of Deep Learning for Analysis of Gene Expression Data" | August 2017 - July 2018**
 * The research explored different Machine Learning techniques, like K-NN, Decision Tree and MLP’s, focusing on Deep
 Learning architectures to classify public domain gene expression data.
 * An automated pipeline was built in Python using Keras to run multiple Deep Learning experiments consisting of three phases:
