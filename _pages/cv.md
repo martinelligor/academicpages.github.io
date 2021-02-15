@@ -44,7 +44,7 @@ data balancing, dimensionality reduction and classification. The pipeline was re
 * CRM modelling for a large Brazilian retailer.
 * Customer data analysis and insight driven methods for modelling improvement.
 * Dashboards development for KPIs visualization using Python/Dash and PowerBI.
-* SKU assortment optimization for major beer company, which caused 4% same store sales uplift during COVID pandemic.
+* SKU assortment optimization for major beer company, which caused significantly same store sales uplift during COVID pandemic.
 * Built analytics-based approaches to make smart divisions of control and experimental group for AI and retail related projects.
 
 ## iFood, São Carlos-SP, Brazil
